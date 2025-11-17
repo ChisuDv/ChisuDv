@@ -32,18 +32,9 @@ Bukkit plugin and Mods in fabric Update on Github rep
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ChisuDv&color=blueviolet&style=flat-square&label=Profile+views" />
 </div
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChisuDv&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
-</div>
-
-<div aling="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChisuDv&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChisuDv&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Most Used Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=ChisuDv&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 </div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ChisuDv&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+
