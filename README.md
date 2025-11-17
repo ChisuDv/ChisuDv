@@ -2,6 +2,7 @@
 
 # 📃 Sobre mi
 Soy desarrollador de Mods y Plugins en Minecraft usando Java, disfruto aprender cada dia cosas nuevas y aplicarlas a cada uno de mis trabajos para que sean de mejor calidad.
+Director en Studio de desarrollo en Minecraft [Voxel Studio](https://voxel-website.vercel.app/)
 
 # 🛠️ Conocimientos y Habilidades
 > <div align="left">
