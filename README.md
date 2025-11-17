@@ -29,7 +29,7 @@ Director en Studio de desarrollo en Minecraft [Voxel Studio](https://voxel-websi
 Bukkit plugin and Mods in fabric Update on Github rep
 
 # 📁 Estadísticas
-<div align="left">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ChisuDv&color=blueviolet&style=flat-square&label=Profile+views" />
 </div
 <div align="left">
